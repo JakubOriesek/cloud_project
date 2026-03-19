@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="5">
+<title>Air Quality</title>
+</head>
+
+<body>
+
+AQI: {{ aqi }} <br>
+Temperature: {{ temperature }}°C <br>
+Humidity: {{ humidity }}% <br>
+Time: {{ time }}
+
+</body>
+</html>
