@@ -8,3 +8,4 @@ class ShowApiDataConfig(AppConfig):
         if 'runserver' in sys.argv:
             from sceduler import sceduler
             sceduler.start()
+# comentary
